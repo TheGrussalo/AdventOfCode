@@ -1,5 +1,12 @@
 package main
 
+//
+// This isn't my best code by any means.
+// I struggled with arrays and having to rebuild the array each time
+//  felt wrong but it worked, just isn't really efficient.
+// Soz.
+//
+
 import (
 	"bufio"
 	"fmt"
