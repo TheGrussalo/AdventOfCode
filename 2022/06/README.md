@@ -1,3 +1,7 @@
+# Advent Of Code
+
+https://adventofcode.com/2022/day/6
+
 --- Day 6: Tuning Trouble ---
 The preparations are finally complete; you and the Elves leave camp on foot and begin to make your way toward the star fruit grove.
 
@@ -50,3 +54,7 @@ nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg: first marker after character 29
 zcfzfwzzqfrljwzlrfnpqdbhtmscgvjw: first marker after character 26
 ```
 How many characters need to be processed before the first start-of-message marker is detected?
+
+Your puzzle answer was !.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
